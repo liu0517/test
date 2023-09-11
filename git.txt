@@ -13,4 +13,8 @@
     8. git commit -m '提交输入的文字 写你提交的理由'   将暂存区的内容提交
     9. git commit  如果直接回车 不输入文字 则出现选项界面 按 "i" 可以输入文字输入文字以后 按esc然后按:wq 就可以了 
     10. git reset head~ --solf  取消上一次的提交 但是他不可以取消第一次的提交 后面的提交可以 所以第一次提交尽量谨慎
-    11.
+    11. git log 查看提交日志
+    12. git remote add "仓库名字" https://github.com/liu0517/test.git // 连接远程仓库
+    13. git remote  // 查看连接仓库的名字
+    14. git remote rename "原来的名字" "要修改的名字"   //修改仓库的名字
+    
