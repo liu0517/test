@@ -17,4 +17,4 @@
     12. git remote add "仓库名字" https://github.com/liu0517/test.git // 连接远程仓库
     13. git remote  // 查看连接仓库的名字
     14. git remote rename "原来的名字" "要修改的名字"   //修改仓库的名字
-    
+    15. git push "仓库名字" "分支名字"  // 提交远程厂库
